@@ -5,13 +5,13 @@ I am a Master of Data Science student at Monash University with a background in 
 
 ## 🚀 Featured Projects
 
-### 1. Sun Safety Dashboard
-**Full-stack Web Application | Python, FastAPI, React, PostgreSQL**
+### 1. Serverless Event-Driven MVP
+**Cloud Architecture & Backend Engineering | Azure, Serverless, Node.js**
 
-* **The Challenge:** Addressed the common misconception that temperature is a reliable indicator of UV risk.
-* **The Solution:** Developed a real-time dashboard that visualizes the divergence between UV index and temperature using historical weather data.
-* **Technical Highlight:** Built a robust backend with FastAPI and integrated interactive data visualizations using React to improve user engagement with health data.
-* [**View Code on GitHub**](https://github.com/Archieemp2025/YOUR-REPO-NAME)
+* **The Challenge:** Building a scalable application that handles fluctuating user traffic without the overhead of managing traditional server infrastructure.
+* **The Solution:** Developed a Minimum Viable Product (MVP) using a serverless architecture, ensuring the system only consumes resources when triggered by specific events (like user sign-ups or data uploads).
+* **Technical Highlight:** Implemented event-driven triggers and microservices to ensure high availability and cost-efficiency, demonstrating a "Cloud-First" approach to software development.
+* [**View Code on GitHub**](https://github.com/Archieemp2025/serverless-event-mvp)
 
 ---
 
