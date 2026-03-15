@@ -21,7 +21,7 @@ I am a Master of Data Science student at Monash University with a background in 
 * **The Challenge:** Investigated how environmental and individual factors contribute to workplace conflict through an intersectional lens.
 * **The Solution:** Applied advanced predictive modeling (XGBoost, Random Forest) and Multilevel Bayesian Statistical Modeling to identify key conflict drivers.
 * **Outcome:** Achieved high model accuracy, providing actionable insights into organizational health and diversity metrics.
-* [**View Code on GitHub**](https://github.com/Archieemp2025/YOUR-REPO-NAME)
+* [**View Code on GitHub**](https://github.com/Archieemp2025/CI_research_internship_academic_paper)
 
 ---
 
