@@ -1,4 +1,4 @@
-# Portfolio
+# Archana
 I am a Master of Data Science student at Monash University with a background in Software Engineering. I specialize in building data-driven applications and predictive models.
 
 ---
